@@ -1,0 +1,1101 @@
+{
+  "title": "Den Doorn Memo - Ita",
+  "revisionId": "AD8KACReai7rbk7qPiGyRZDUGd2wHGCkq2l2_7TsIOnUz7rnqknVU2LtI2KtSl8y8TsnI1nriVX8_RHsKFZihA",
+  "suggestionsViewMode": "SUGGESTIONS_INLINE",
+  "documentId": "1cNezSO07vnTxJGbMzo2iqtokr_D2gt4OENjFIV3VqU8",
+  "tabs": [
+    {
+      "tabProperties": {
+        "tabId": "t.0",
+        "title": "Tab 1",
+        "index": 0
+      },
+      "documentTab": {
+        "body": {
+          "content": [
+            {
+              "endIndex": 1,
+              "sectionBreak": {
+                "sectionStyle": {
+                  "columnSeparatorStyle": "NONE",
+                  "contentDirection": "LEFT_TO_RIGHT",
+                  "sectionType": "CONTINUOUS"
+                }
+              }
+            },
+            {
+              "startIndex": 1,
+              "endIndex": 21,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 1,
+                    "endIndex": 21,
+                    "textRun": {
+                      "content": "Il promemoria Doorn\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.s6m4e4wvfbgq",
+                  "namedStyleType": "TITLE",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 21,
+              "endIndex": 189,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 21,
+                    "endIndex": 189,
+                    "textRun": {
+                      "content": "Questo breve memorandum spiega in termini non tecnici perché alcune architetture digitali si allineano meglio di altre alla governance democratica e al libero mercato.\n",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 189,
+              "endIndex": 190,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 189,
+                    "endIndex": 190,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 190,
+              "endIndex": 918,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 190,
+                    "endIndex": 437,
+                    "textRun": {
+                      "content": "Quando un sistema digitale è difficile da sostituire (ad esempio a causa di effetti di rete o mercati bilaterali), presenta una grande diversità di utilizzi sociale e stabilisce le regole su come i suoi utenti possono utilizzarlo, lo consideriamo ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 437,
+                    "endIndex": 462,
+                    "textRun": {
+                      "content": "infrastruttura digitale. ",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 462,
+                    "endIndex": 646,
+                    "textRun": {
+                      "content": "Proprio come le infrastrutture fisiche, le infrastrutture digitali hanno potere perché sono un input fondamentale per la produzione economica e strutturano l'attività sociale. Ci sono ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 646,
+                    "endIndex": 652,
+                    "textRun": {
+                      "content": "molti ",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 652,
+                    "endIndex": 918,
+                    "textRun": {
+                      "content": "tipi di infrastrutture digitali: social media, ricerca, browser, sistemi operativi, cloud, reti pubblicitarie, sistemi di produttività, app store, chat sicure, componenti di intelligenza artificiale, standard, pagamenti digitali, sistemi di identità e altro ancora.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 918,
+              "endIndex": 1707,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 918,
+                    "endIndex": 1603,
+                    "textRun": {
+                      "content": "La sovranità è la capacità di creare e far rispettare le regole nella propria giurisdizione. Quando un gestore di infrastrutture elude parzialmente o totalmente il controllo giurisdizionale, le regole che stabilisce per governare i suoi utenti competono con le leggi governative e potenzialmente le sostituiscono. Questo accade, ad esempio, quando le aziende devono pagare tasse più elevate a un app store che allo Stato, quando i social e la ricerca determinano le regole della libertà di parola e della rilevanza giornalistica, quando le reti pubblicitarie decidono chi riceve finanziamenti, quando le società di gig economy determinano le regole del lavoro. Questo è il problema di ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 1603,
+                    "endIndex": 1626,
+                    "textRun": {
+                      "content": "sovranità tecnologica. ",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 1626,
+                    "endIndex": 1707,
+                    "textRun": {
+                      "content": "Senza sovranità non c'è democrazia, non c'è mercato, non c'è autodeterminazione.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 1707,
+              "endIndex": 2354,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 1707,
+                    "endIndex": 1946,
+                    "textRun": {
+                      "content": "Sostenere l'innovazione su infrastrutture acquisite è uno spreco di denaro. L'innovazione può solo raramente sostituire il potere infrastrutturale: un'auto elettrica non eliminerà un casello autostradale su una strada di proprietà altrui. ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 1946,
+                    "endIndex": 2017,
+                    "textRun": {
+                      "content": "Il motore dell'industria tecnologica non è l'innovazione, è il potere. ",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 2017,
+                    "endIndex": 2132,
+                    "textRun": {
+                      "content": "Nulla nella tecnologia digitale ha senso, se non alla luce del potere. Nella Silicon Valley, la gente non parla di ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 2132,
+                    "endIndex": 2142,
+                    "textRun": {
+                      "content": "ricerca, p",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 2142,
+                    "endIndex": 2353,
+                    "textRun": {
+                      "content": "arlano di “moat” (vantaggio competitivo), di come usare le infrastrutture per creare potere attraverso i punti critici. Parlare di innovazione è solo un trucchetto per tenere fuori i politici fuori dal contesto.",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 2353,
+                    "endIndex": 2354,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 2354,
+              "endIndex": 2737,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 2354,
+                    "endIndex": 2454,
+                    "textRun": {
+                      "content": "Ogni volta che inseriamo la politica dell'innovazione in una lotta di potere geopolitica, perdiamo. ",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 2454,
+                    "endIndex": 2737,
+                    "textRun": {
+                      "content": "Per conquistare la sovranità tecnologica europea, per dare alle aziende europee la possibilità di competere, per rafforzare e promuovere la nostra società democratica, dobbiamo implementare infrastrutture digitali progettate per supportare la governance e la sovranità democratiche.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 2737,
+              "endIndex": 2779,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 2737,
+                    "endIndex": 2779,
+                    "textRun": {
+                      "content": "Cosa significa questo per i social media?\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.s1vsndg0dehd",
+                  "namedStyleType": "HEADING_3",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 2779,
+              "endIndex": 3295,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 2779,
+                    "endIndex": 2905,
+                    "textRun": {
+                      "content": "Una preoccupazione fondamentale nell’architettura digitale, così come nella progettazione istituzionale, è determinare chi ha ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 2905,
+                    "endIndex": 2914,
+                    "textRun": {
+                      "content": "autorità ",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 2914,
+                    "endIndex": 3020,
+                    "textRun": {
+                      "content": "su quale azione o informazione. Per fare un esempio: se Alice sta leggendo un post di Bob su Twitter, lei ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 3020,
+                    "endIndex": 3025,
+                    "textRun": {
+                      "content": "deve ",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 3025,
+                    "endIndex": 3295,
+                    "textRun": {
+                      "content": "fidarsi di Twitter, che ha autenticato correttamente Bob, che ha verificato in una certa misura la sua identità e che non ha alterato il contenuto del suo messaggio. In questo tipo di architettura, Twitter è l'autorità che determina tutti questi aspetti e altro ancora.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 3295,
+              "endIndex": 3666,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 3295,
+                    "endIndex": 3307,
+                    "textRun": {
+                      "content": "Questo crea ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 3307,
+                    "endIndex": 3327,
+                    "textRun": {
+                      "content": "monoliti di autorità",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 3327,
+                    "endIndex": 3666,
+                    "textRun": {
+                      "content": ": sistemi che non limitano “moats” ad un solo ambito, ma a molti altri, come identità, contenuti, raccomandazioni, pubblicità, diritti di parola, grafici sociali, appelli o privacy. Ciò crea sistemi con un potere estremamente concentrato perché, anziché avere controlli ed equilibri tra le aree di responsabilità, si rafforzano a vicenda.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 3666,
+              "endIndex": 4693,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 3666,
+                    "endIndex": 3733,
+                    "textRun": {
+                      "content": "L'approccio di Fediverse consiste nel creare monoliti più piccoli. ",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 3733,
+                    "endIndex": 4693,
+                    "textRun": {
+                      "content": "Il sistema sociale è suddiviso in istanze più piccole, ciascuna delle quali ha autorità sui propri utenti, ma che sono anche connesse in modo che i messaggi possano essere visualizzati tra le varie istanze. Questo è un importante passo avanti perché offre la possibilità di uscire da un'istanza senza uscire dalla rete. Tuttavia, introduce la sfida nella scelta dell'istanza giusta: le istanze possono fallire (ad esempio, per mancanza di fondi o perché gestite da un piccolo dittatore) e se un monolite diventa più grande degli altri (ad esempio, se Google inizia a offrire a tutti gli utenti Gmail un account Fediverse gratuito), la rete non avrà la capacità istituzionale di resistere, poiché l'unica funzione di bilanciamento è la dimensione dell'istanza. A rischio di spaventare gli esperti di informatica con un gergo tecnico, data la complessità e la struttura di potere dei social media, questo tipo di federazione non è sufficientemente policentrico.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 4693,
+              "endIndex": 5164,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 4693,
+                    "endIndex": 4795,
+                    "textRun": {
+                      "content": "Un approccio alternativo è quello di progettare protocolli attorno a ciò che è tecnicamente noto come ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 4795,
+                    "endIndex": 4818,
+                    "textRun": {
+                      "content": "dati autocertificanti. ",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 4818,
+                    "endIndex": 5164,
+                    "textRun": {
+                      "content": "I dati autocertificanti sono dati che hanno la capacità di dimostrare la propria autenticità senza ricorrere a un'autorità esterna. Chiunque può verificarne l'autenticità. Se Bob chiede a Eve di consegnare un messaggio ad Alice, Alice può sapere con certezza che il messaggio proveniva effettivamente da Bob, anche se non si fida affatto di Eve.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 5164,
+              "endIndex": 6118,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 5164,
+                    "endIndex": 5439,
+                    "textRun": {
+                      "content": "Eliminare la dipendenza dall’autorità centrale apre le porte alla creazione di una ricca rete di accordi istituzionali che operano indipendentemente l’uno dall’altro, con separazione dei poteri e delle responsabilità, proprio come ci si aspetterebbe da un sistema democratico",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 5439,
+                    "endIndex": 6118,
+                    "textRun": {
+                      "content": ". Poiché i dati sono verificabili senza un'autorità esterna, diventa possibile disporre di sistemi separati per l'identità o l'archiviazione dei dati personali. I feed di raccomandazioni possono provenire da fonti completamente arbitrarie, con la certezza che non mentono sui contenuti. E possono coesistere diversi sistemi di moderazione, basati sugli stessi dati affidabili anziché su un unico centro di controllo. Ciò crea affordance democratiche, controlli ed equilibri e rende la regolamentazione più semplice e più applicabile riducendo al contempo la sua necessità attraverso una maggiore capacità autogovernativa del sistema, offrendo una migliore esperienza all’utente.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 6118,
+              "endIndex": 6871,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 6118,
+                    "endIndex": 6175,
+                    "textRun": {
+                      "content": "Eurosky si basa su AT (Trasferimento autenticato) perché ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 6175,
+                    "endIndex": 6224,
+                    "textRun": {
+                      "content": "questo è l'approccio adottato dal protocollo AT. ",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 6224,
+                    "endIndex": 6871,
+                    "textRun": {
+                      "content": "Non è in opposizione all'approccio Fediverse (sappiamo per esperienza come le guerre di protocollo siano una perdita di tempo), anzi, la maggiore flessibilità dei protocolli di dati autocertificanti significa che è possibile supportare la governance e l'esperienza in stile Fediverse sul protocollo AT, mentre il contrario non è vero. Avvicinandosi ai 40 milioni di utenti, Bluesky ha dimostrato che è possibile creare esperienze utente altamente accattivanti con questo approccio, e la nuova generazione di applicazioni social attualmente in fase di sviluppo su questo protocollo aperto dimostra quanto sia possibile creare esperienze variegate.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 6871,
+              "endIndex": 7221,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 6871,
+                    "endIndex": 7048,
+                    "textRun": {
+                      "content": "Tuttavia, tutte queste belle proprietà architettoniche non possono essere prodotte se finiamo per avere un solo operatore che gestisce tutti i diversi componenti istituzionali. ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 7048,
+                    "endIndex": 7221,
+                    "textRun": {
+                      "content": "Ecco perché Eurosky sta lavorando per gestire un'infrastruttura pubblica di social media: per creare garanzie che la rete AT rimanga aperta e operi nell'interesse pubblico.\n",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            }
+          ]
+        },
+        "documentStyle": {
+          "background": {
+            "color": {}
+          },
+          "pageNumberStart": 1,
+          "marginTop": {
+            "magnitude": 72,
+            "unit": "PT"
+          },
+          "marginBottom": {
+            "magnitude": 72,
+            "unit": "PT"
+          },
+          "marginRight": {
+            "magnitude": 72,
+            "unit": "PT"
+          },
+          "marginLeft": {
+            "magnitude": 72,
+            "unit": "PT"
+          },
+          "pageSize": {
+            "height": {
+              "magnitude": 841.8897637795277,
+              "unit": "PT"
+            },
+            "width": {
+              "magnitude": 595.2755905511812,
+              "unit": "PT"
+            }
+          },
+          "marginHeader": {
+            "magnitude": 36,
+            "unit": "PT"
+          },
+          "marginFooter": {
+            "magnitude": 36,
+            "unit": "PT"
+          },
+          "useCustomHeaderFooterMargins": true
+        },
+        "namedStyles": {
+          "styles": [
+            {
+              "namedStyleType": "NORMAL_TEXT",
+              "textStyle": {
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "strikethrough": false,
+                "smallCaps": false,
+                "backgroundColor": {},
+                "foregroundColor": {
+                  "color": {
+                    "rgbColor": {}
+                  }
+                },
+                "fontSize": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                },
+                "weightedFontFamily": {
+                  "fontFamily": "Proxima Nova",
+                  "weight": 400
+                },
+                "baselineOffset": "NONE"
+              },
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "alignment": "START",
+                "lineSpacing": 115,
+                "direction": "LEFT_TO_RIGHT",
+                "spacingMode": "NEVER_COLLAPSE",
+                "spaceAbove": {
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 10,
+                  "unit": "PT"
+                },
+                "borderBetween": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderTop": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderBottom": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderLeft": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "borderRight": {
+                  "color": {},
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "padding": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID"
+                },
+                "indentFirstLine": {
+                  "unit": "PT"
+                },
+                "indentStart": {
+                  "unit": "PT"
+                },
+                "indentEnd": {
+                  "unit": "PT"
+                },
+                "keepLinesTogether": false,
+                "keepWithNext": false,
+                "avoidWidowAndOrphan": true,
+                "shading": {
+                  "backgroundColor": {}
+                },
+                "pageBreakBefore": false
+              }
+            },
+            {
+              "namedStyleType": "HEADING_1",
+              "textStyle": {
+                "fontSize": {
+                  "magnitude": 20,
+                  "unit": "PT"
+                }
+              },
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 20,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 6,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": true,
+                "keepWithNext": true,
+                "pageBreakBefore": false
+              }
+            },
+            {
+              "namedStyleType": "HEADING_2",
+              "textStyle": {
+                "fontSize": {
+                  "magnitude": 16,
+                  "unit": "PT"
+                },
+                "weightedFontFamily": {
+                  "fontFamily": "Libre Franklin",
+                  "weight": 200
+                }
+              },
+              "paragraphStyle": {
+                "headingId": "h.mmq68xjggp1n",
+                "namedStyleType": "HEADING_2",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 18,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 6,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": true,
+                "keepWithNext": true
+              }
+            },
+            {
+              "namedStyleType": "HEADING_3",
+              "textStyle": {
+                "foregroundColor": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.2627451,
+                      "green": 0.2627451,
+                      "blue": 0.2627451
+                    }
+                  }
+                },
+                "weightedFontFamily": {
+                  "fontFamily": "Libre Franklin",
+                  "weight": 600
+                }
+              },
+              "paragraphStyle": {
+                "headingId": "h.j461uvsxu54v",
+                "namedStyleType": "HEADING_3",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 16,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 4,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": true,
+                "keepWithNext": true
+              }
+            },
+            {
+              "namedStyleType": "HEADING_4",
+              "textStyle": {
+                "foregroundColor": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.4,
+                      "green": 0.4,
+                      "blue": 0.4
+                    }
+                  }
+                },
+                "fontSize": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                }
+              },
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 14,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 4,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": true,
+                "keepWithNext": true,
+                "pageBreakBefore": false
+              }
+            },
+            {
+              "namedStyleType": "HEADING_5",
+              "textStyle": {
+                "foregroundColor": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.4,
+                      "green": 0.4,
+                      "blue": 0.4
+                    }
+                  }
+                },
+                "fontSize": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              },
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 4,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": true,
+                "keepWithNext": true,
+                "pageBreakBefore": false
+              }
+            },
+            {
+              "namedStyleType": "HEADING_6",
+              "textStyle": {
+                "italic": true,
+                "foregroundColor": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.4,
+                      "green": 0.4,
+                      "blue": 0.4
+                    }
+                  }
+                },
+                "fontSize": {
+                  "magnitude": 11,
+                  "unit": "PT"
+                }
+              },
+              "paragraphStyle": {
+                "namedStyleType": "NORMAL_TEXT",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceAbove": {
+                  "magnitude": 12,
+                  "unit": "PT"
+                },
+                "spaceBelow": {
+                  "magnitude": 4,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": true,
+                "keepWithNext": true,
+                "pageBreakBefore": false
+              }
+            },
+            {
+              "namedStyleType": "TITLE",
+              "textStyle": {
+                "fontSize": {
+                  "magnitude": 26,
+                  "unit": "PT"
+                },
+                "weightedFontFamily": {
+                  "fontFamily": "Libre Franklin",
+                  "weight": 200
+                }
+              },
+              "paragraphStyle": {
+                "headingId": "h.qn6wqvd6l1st",
+                "namedStyleType": "TITLE",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceBelow": {
+                  "magnitude": 3,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": true,
+                "keepWithNext": true
+              }
+            },
+            {
+              "namedStyleType": "SUBTITLE",
+              "textStyle": {
+                "foregroundColor": {
+                  "color": {
+                    "rgbColor": {
+                      "red": 0.4,
+                      "green": 0.4,
+                      "blue": 0.4
+                    }
+                  }
+                },
+                "fontSize": {
+                  "magnitude": 15,
+                  "unit": "PT"
+                }
+              },
+              "paragraphStyle": {
+                "headingId": "h.p164h467bxwt",
+                "namedStyleType": "SUBTITLE",
+                "direction": "LEFT_TO_RIGHT",
+                "spaceBelow": {
+                  "magnitude": 16,
+                  "unit": "PT"
+                },
+                "keepLinesTogether": true,
+                "keepWithNext": true
+              }
+            }
+          ]
+        },
+        "lists": {
+          "kix.dcu70cmusp3i": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "GLYPH_TYPE_UNSPECIFIED",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}
