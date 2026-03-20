@@ -39,20 +39,20 @@ h1 {
 
 h1 > span {
   text-shadow:
-    var(--x-off) var(--y-off) 0 oklch(from var(--accent) l c h / 0.7),
-    calc(var(--x-off) * 2) calc(var(--y-off) * 2) 0 oklch(from var(--accent) l c h / 0.5), /* calc(c * 0.7) */
-    calc(var(--x-off) * 3) calc(var(--y-off) * 3) 0 oklch(from var(--accent) l c h / 0.2) /* calc(c * 0.7) */
+    var(--xoff) var(--yoff) 0 oklch(from var(--accent) l c h / 0.7),
+    calc(var(--xoff) * 2) calc(var(--yoff) * 2) 0 oklch(from var(--accent) l c h / 0.5), /* calc(c * 0.7) */
+    calc(var(--xoff) * 3) calc(var(--yoff) * 3) 0 oklch(from var(--accent) l c h / 0.2) /* calc(c * 0.7) */
   ;
 }
 
-.mono {
+/*.mono {
   --accent: #000;
   --fg: #000;
-  --x-off: -12px;
-  --y-off: 5px;
+  --xoff: -12px;
+  --yoff: 5px;
   --gmin: #eb8558;
   --gmax: #d7371d;
-}
+}*/
 /*.mono-down {
   --accent: #000;
   --fg: #000;
