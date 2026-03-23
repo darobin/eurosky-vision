@@ -31,6 +31,7 @@ const z = 16;
 const gradOptions = {
   diag: 'linear-gradient(to top right, var(--gmax, #fff), var(--gmin, #fff))',
   zap: `linear-gradient(60deg, var(--gmax, #fff), var(--gmin, #fff) calc(50% - ${z + 1}rem), var(--gmax, #fff) calc(50% - ${z}rem), var(--gmin, #fff) calc(50% + ${z}rem), var(--gmax, #fff) calc(50% + ${z + 1}rem), var(--gmin, #fff))`,
+  tight: `linear-gradient(45deg, var(--gmax, #fff), var(--gmax, #fff) calc(50% - ${z}rem), var(--gmin, #fff) calc(50% + ${z}rem), var(--gmin, #fff)`,
 };
 const defaultOptions = { bg: 'tang', fg: 'black', accent: 'neon', off: 'inup', grad: 'diag' };
 
